@@ -89,4 +89,36 @@ except ValueError:
     print("Input yang Anda masukkan tidak valid. Pastikan menggunakan angka untuk berat dan jarak.")
 ```
 # OUTPUT Program
-```python
+```
+===========================================
+Nama: Dwi Okta Ramadhani
+NIM: 312410056
+===========================================
+Masukkan berat paket (kg): 15
+Masukkan jarak pengiriman (km): 10
+Masukkan jenis pengiriman (biasa/express): biasa
+Apakah Anda member? (member/non-member): non member
+Keterangan                Biaya (Rp)
+========================================
+Biaya Dasar                    10000
+Biaya Berat > 5 kg              5000
+========================================
+Total Biaya Pengiriman      15000.00
+PS C:\Users\acer\Documents\KULIAH\Semester 2\Logika Informatika\Tugas 1> 
+
+===========================================
+Nama: Dwi Okta Ramadhani
+NIM: 312410056
+===========================================
+Masukkan berat paket (kg): 5
+Masukkan jarak pengiriman (km): 10
+Masukkan jenis pengiriman (biasa/express): express
+Apakah Anda member? (member/non-member): member
+Keterangan                Biaya (Rp)
+========================================
+Biaya Dasar                    10000
+Biaya Pengiriman Express       20000
+Diskon Member (10%)          -3000.0
+========================================
+Total Biaya Pengiriman      27000.00
+```
