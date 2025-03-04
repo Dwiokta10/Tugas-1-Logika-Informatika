@@ -6,6 +6,7 @@
 |     _Kelas_    |      TI.24.A1      |
 |  _Mata Kuliah_ | Logika Informatika |
 ###
+### SOAL
 Sebuah jasa pengiriman memiliki aturan biaya yang bergantung pada beberapa faktor.Biaya dasar pengiriman ditetapkan
 sebesar Rp 10.000.
 Jika berat paket melebihi 5 kg, maka akan dikenakan tambahan biaya sebesar Rp 5.000.
